@@ -1,0 +1,1 @@
+## A repository for Computer Vision and Image Processing course's assignment - Assignment 1
